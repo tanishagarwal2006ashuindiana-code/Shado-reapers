@@ -843,7 +843,7 @@
             <footer style="background: #050507; border-top: 1px solid rgba(255,255,255,0.05); padding: 60px 0 30px;">
                 <div class="container">
                     <div class="text-center">
-                        <p class="muted">© 2023 Shadow Reapers. All rights reserved.</p>
+                        <p class="muted">© Shadow Reapers. All rights reserved.</p>
                         <p class="small muted">This is a demo platform. For production use, implement proper backend and payment processing.</p>
                     </div>
                 </div>
