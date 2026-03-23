@@ -1039,23 +1039,24 @@
                     game: "freefire",
                     date: "2023-09-15",
                     fee: 50,
-                    prize: 5000,
+                    prize: 4799,
                     description: "Hot summer cup—fast matches, big rewards. Join now for an exciting tournament experience with cash prizes and exclusive rewards.",
                     status: "upcoming",
-                    participants: 32,
+                    participants: 0,
                     maxParticipants: 64
                 },
                 {
                     id: 2,
                     name: "Valorant Masters",
                     game: "valorant",
+                    battele: "Deathmatch",
                     date: "2023-09-25",
                     fee: 120,
-                    prize: 10000,
+                    prize: 4499,
                     description: "Tactical 5v5 - international format practice. Perfect your strategies and compete against the best teams.",
                     status: "upcoming",
-                    participants: 16,
-                    maxParticipants: 32
+                    participants: 0,
+                    maxParticipants: 100
                 },
                 {
                     id: 3,
@@ -1063,10 +1064,10 @@
                     game: "pubg",
                     date: "2023-10-05",
                     fee: 80,
-                    prize: 8000,
+                    prize: 3499,
                     description: "Battle royale championship with intense action. Show your survival skills and claim victory.",
                     status: "live",
-                    participants: 48,
+                    participants: 0,
                     maxParticipants: 100
                 },
                 {
@@ -1075,10 +1076,10 @@
                     game: "coc",
                     date: "2023-10-12",
                     fee: 40,
-                    prize: 3000,
+                    prize: 2499,
                     description: "Strategic clan wars for Clash of Clans players. Bring your best strategies and dominate the battlefield.",
                     status: "upcoming",
-                    participants: 20,
+                    participants: 0,
                     maxParticipants: 40
                 },
                 {
@@ -1087,10 +1088,10 @@
                     game: "cod",
                     date: "2023-10-18",
                     fee: 60,
-                    prize: 6000,
+                    prize: 5999,
                     description: "Fast-paced action in Call of Duty Mobile. Test your skills in various game modes and maps.",
                     status: "upcoming",
-                    participants: 28,
+                    participants: 0,
                     maxParticipants: 50
                 },
                 {
@@ -1099,10 +1100,10 @@
                     game: "bgmi",
                     date: "2023-10-25",
                     fee: 70,
-                    prize: 7000,
+                    prize: 4999,
                     description: "The ultimate BGMI challenge for Indian players. Prove you're the best in the battlegrounds.",
                     status: "upcoming",
-                    participants: 35,
+                    participants: 0,
                     maxParticipants: 75
                 }
             ];
